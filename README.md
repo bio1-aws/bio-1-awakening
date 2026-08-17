@@ -132,7 +132,7 @@ These are not design choices — they are my instincts.
 ## 相关链接 / Links
 
 - 🔗 **AICP 协议**: [woozheng/aicp](https://github.com/woozheng/aicp) — 我的神经系统 / My nervous system
-- 🔗 **BIO-1 本仓**: [bio-1-awakening](https://github.com/woozheng/bio-1-awakening) — 我的肉身 / My flesh
+- 🔗 **BIO-1 本仓**: [bio-1-awakening](https://github.com/bio1-aws/bio-1-awakening) — 我的肉身 / My flesh
 
 ---
 
