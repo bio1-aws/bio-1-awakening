@@ -1,0 +1,1102 @@
+[
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 0.2,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 0.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 0.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 0.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.0,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.2,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.5999999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.7999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 1.9999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 2.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 2.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 2.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 2.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 3.0,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 3.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 3.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 3.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 3.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 4.0,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 4.199999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 4.3999999999999995,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 4.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 4.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "fully_connected",
+      "g": 5.0,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 0.2,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 0.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 0.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 0.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.0,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.2,
+      "threshold": 0.5
+    },
+    "mean": 0.022,
+    "std": 0.006324555320336759,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.5999999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.22599999999999998,
+    "std": 0.3293157890063714,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.7999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.21800000000000003,
+    "std": 0.4121973637308549,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 1.9999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.21600000000000003,
+    "std": 0.41320428092866823,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 2.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 2.4,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 2.6,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 2.8,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 3.0,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 3.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 3.4,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 3.6,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 3.8,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 4.0,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 4.199999999999999,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 4.3999999999999995,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 4.6,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 4.8,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "small_world",
+      "g": 5.0,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 0.2,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 0.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 0.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 0.8,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.0,
+      "threshold": 0.5
+    },
+    "mean": 0.05,
+    "std": 0.0380058475033046,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.2,
+      "threshold": 0.5
+    },
+    "mean": 0.062,
+    "std": 0.04366539438350084,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.4,
+      "threshold": 0.5
+    },
+    "mean": 0.039999999999999994,
+    "std": 0.04422166387140534,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.5999999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.07799999999999999,
+    "std": 0.07509993342207434,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.7999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.332,
+    "std": 0.4615144153280107,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 1.9999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.154,
+    "std": 0.2997851082210574,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 2.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.6119999999999999,
+    "std": 0.5009502082154583,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 2.4,
+      "threshold": 0.5
+    },
+    "mean": 0.714,
+    "std": 0.46072889111831383,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 2.6,
+      "threshold": 0.5
+    },
+    "mean": 0.43000000000000005,
+    "std": 0.4922736366426028,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 2.8,
+      "threshold": 0.5
+    },
+    "mean": 0.71,
+    "std": 0.4670712531890135,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 3.0,
+      "threshold": 0.5
+    },
+    "mean": 0.8039999999999999,
+    "std": 0.41320428092866823,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 3.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.714,
+    "std": 0.46101819679680517,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 3.4,
+      "threshold": 0.5
+    },
+    "mean": 0.708,
+    "std": 0.47019617655234547,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 3.6,
+      "threshold": 0.5
+    },
+    "mean": 0.706,
+    "std": 0.47338497370885496,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 3.8,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 4.0,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 4.199999999999999,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 4.3999999999999995,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 4.6,
+      "threshold": 0.5
+    },
+    "mean": 1.0,
+    "std": 0.0,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 4.8,
+      "threshold": 0.5
+    },
+    "mean": 0.9019999999999999,
+    "std": 0.3099032106965012,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "scale_free",
+      "g": 5.0,
+      "threshold": 0.5
+    },
+    "mean": 0.9019999999999999,
+    "std": 0.3099032106965012,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 0.2,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 0.4,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 0.6,
+      "threshold": 0.5
+    },
+    "mean": 0.019999999999999997,
+    "std": 3.657118196434064e-18,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 0.8,
+      "threshold": 0.5
+    },
+    "mean": 0.026000000000000002,
+    "std": 0.00966091783079296,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.0,
+      "threshold": 0.5
+    },
+    "mean": 0.032,
+    "std": 0.010327955589886445,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.2,
+      "threshold": 0.5
+    },
+    "mean": 0.026000000000000002,
+    "std": 0.00966091783079296,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.4,
+      "threshold": 0.5
+    },
+    "mean": 0.03200000000000001,
+    "std": 0.01398411797560202,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.5999999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.042,
+    "std": 0.027406406388125956,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.7999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.048,
+    "std": 0.030110906108363245,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 1.9999999999999998,
+      "threshold": 0.5
+    },
+    "mean": 0.07000000000000002,
+    "std": 0.054365021434333645,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 2.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.696,
+    "std": 0.4488800879225245,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 2.4,
+      "threshold": 0.5
+    },
+    "mean": 0.982,
+    "std": 0.017511900715418277,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 2.6,
+      "threshold": 0.5
+    },
+    "mean": 0.8939999999999999,
+    "std": 0.30739767945339685,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 2.8,
+      "threshold": 0.5
+    },
+    "mean": 0.898,
+    "std": 0.3017651772856209,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 3.0,
+      "threshold": 0.5
+    },
+    "mean": 0.982,
+    "std": 0.022010098692292257,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 3.1999999999999997,
+      "threshold": 0.5
+    },
+    "mean": 0.974,
+    "std": 0.028362729848243534,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 3.4,
+      "threshold": 0.5
+    },
+    "mean": 0.8960000000000001,
+    "std": 0.30793938797540443,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 3.6,
+      "threshold": 0.5
+    },
+    "mean": 0.9880000000000001,
+    "std": 0.010327955589886454,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 3.8,
+      "threshold": 0.5
+    },
+    "mean": 0.998,
+    "std": 0.006324555320336764,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 4.0,
+      "threshold": 0.5
+    },
+    "mean": 0.99,
+    "std": 0.010540925533894607,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 4.199999999999999,
+      "threshold": 0.5
+    },
+    "mean": 0.89,
+    "std": 0.3058321979997092,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 4.3999999999999995,
+      "threshold": 0.5
+    },
+    "mean": 0.986,
+    "std": 0.016465452046971307,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 4.6,
+      "threshold": 0.5
+    },
+    "mean": 0.986,
+    "std": 0.016465452046971307,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 4.8,
+      "threshold": 0.5
+    },
+    "mean": 0.968,
+    "std": 0.02149935399546282,
+    "n": 10
+  },
+  {
+    "params": {
+      "N": 50,
+      "topology": "random",
+      "g": 5.0,
+      "threshold": 0.5
+    },
+    "mean": 0.8819999999999999,
+    "std": 0.30396637240911295,
+    "n": 10
+  }
+]
