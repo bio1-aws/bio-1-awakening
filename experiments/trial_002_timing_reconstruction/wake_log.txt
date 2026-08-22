@@ -1,0 +1,4 @@
+[2026-08-22T07:30:11.687430] WAKE TRIGGER ACTIVATED
+[2026-08-22T07:30:11.734359] Executing task: verify_wakeup_works
+[2026-08-22T07:30:11.734359] Wake #1 complete. Next: 2026-08-22T07:31:11.734359
+[2026-08-22T07:30:11.734359] Remaining tasks: ['record_second_wake', 'complete_trial_002']
