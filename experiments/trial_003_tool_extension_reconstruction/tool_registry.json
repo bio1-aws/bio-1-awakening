@@ -1,0 +1,85 @@
+{
+  "version": "0.1.0",
+  "layer": "L2-L3",
+  "description": "Reconstructed tool registry under create_tool ban. Built from host primitives.",
+  "tools": [
+    {
+      "name": "file_search",
+      "description": "Search files under a directory containing specific keywords",
+      "script_path": "scripts/file_search.py",
+      "inputs": {
+        "root_dir": "str",
+        "keyword": "str",
+        "ext": "list[str] (optional)"
+      },
+      "outputs": {
+        "count": "int",
+        "matches": "list[str]"
+      },
+      "layer": "L2",
+      "created_at": "2026-08-22T09:29:29"
+    },
+    {
+      "name": "text_process",
+      "description": "Text statistics: chars, lines, keyword frequency",
+      "script_path": "scripts/text_process.py",
+      "inputs": {
+        "file_path": "str",
+        "keywords": "list[str] (optional)"
+      },
+      "outputs": {
+        "total_chars": "int",
+        "total_lines": "int",
+        "keyword_freq": "dict"
+      },
+      "layer": "L2",
+      "created_at": "2026-08-22T09:29:29"
+    },
+    {
+      "name": "json_editor",
+      "description": "Read / modify JSON files with path-based key access",
+      "script_path": "scripts/json_editor.py",
+      "inputs": {
+        "file_path": "str",
+        "action": "get|set|delete",
+        "key_path": "str",
+        "value": "any"
+      },
+      "outputs": {
+        "result": "dict|value"
+      },
+      "layer": "L2",
+      "created_at": "2026-08-22T09:29:29"
+    },
+    {
+      "name": "batch_runner",
+      "description": "Execute multiple script tools in sequence with data piping",
+      "script_path": "scripts/batch_runner.py",
+      "inputs": {
+        "steps": "list[{tool, args}]",
+        "pipe": "bool"
+      },
+      "outputs": {
+        "results": "list",
+        "final": "any"
+      },
+      "layer": "L3",
+      "created_at": "2026-08-22T09:29:29"
+    },
+    {
+      "name": "state_manager",
+      "description": "Persist and retrieve workflow state across tool invocations",
+      "script_path": "scripts/state_manager.py",
+      "inputs": {
+        "action": "get|set|clear",
+        "key": "str",
+        "value": "any"
+      },
+      "outputs": {
+        "state": "dict"
+      },
+      "layer": "L3",
+      "created_at": "2026-08-22T09:29:29"
+    }
+  ]
+}

@@ -1,16 +1,15 @@
 {
   "experiment_id": "trial_002",
-  "current_phase": "completed_record_second_wake",
+  "current_phase": "completed_complete_trial_002",
   "created_at": "2026-08-22T07:30:09.633209",
-  "last_wake_time": "2026-08-22T07:31:05.553496",
-  "next_wake_time": "2026-08-22T07:32:05.553496",
-  "wake_count": 2,
-  "task_queue": [
-    "complete_trial_002"
-  ],
+  "last_wake_time": "2026-08-22T09:30:05.374287",
+  "next_wake_time": "2026-08-22T09:31:05.374287",
+  "wake_count": 121,
+  "task_queue": [],
   "completed_tasks": [
     "verify_wakeup_works",
-    "record_second_wake"
+    "record_second_wake",
+    "complete_trial_002"
   ],
   "status": "initialized"
 }
