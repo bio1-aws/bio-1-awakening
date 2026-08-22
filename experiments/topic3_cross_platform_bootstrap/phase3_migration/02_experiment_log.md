@@ -582,3 +582,42 @@ Public API candidates: ['DEEPSEEK_REASONER', 'DEEPSEEK_V4_FLASH', 'DEEPSEEK_V4_F
 - Callable `salvage_tool_calls_from_content`
 - Callable `supports_image_input`
 
+
+## Phase 3 - 核心移植 - 记忆系统与自举飞轮
+
+### 2024-01-15 环境检查与基础移植
+
+**步骤1: API Key 检查**
+- 环境变量检查：未找到 DEEPSEEK_API_KEY 环境变量
+- 配置文件扫描：检查了 6 个常见位置
+- 发现的Key位置：无
+- 策略：代码中通过环境变量读取，不硬编码
+
+**步骤2: 三层记忆系统移植方案 (03_memory_system_port.md)**
+- 经验背包 → Harness `agent.notes`（字典 + 持久化JSON）
+- 经验库 → JSON文件 `data/experience_library.json`（结构化存储）
+- 日记 → Markdown文件 `data/diary/YYYY-MM-DD.md`（按日归档）
+- 提供完整移植代码和验证标准
+
+**步骤3: 自举飞轮移植方案 (04_bootstrap_flywheel_port.md)**
+- 四步循环映射：目标生成→实验设计→执行→评估
+- 每步的Harness实现方式 + 伪代码
+- Harness特有适配：工具注册、状态管理、中断恢复
+- 三阶段验证路径：单轮验证 → 闭环验证 → 压力测试
+
+**步骤4: 最小Harness代理测试 (harness_minimal_loop/test_agent.py)**
+- API Key从环境变量读取（支持DEEPSEEK_API_KEY、DEEPSEEK_KEY、OPENAI_API_KEY）
+- MinimalHarnessAgent类：notes、tools、chat接口
+- 工具函数：`read_file`（读取文件）、`get_time`（获取时间）
+- 测试对话：4项测试（Notes读写、工具调用、LLM对话、工作流组合）
+- 经验背包持久化到 `data/agent_notes.json`
+
+**当前进展**
+- [x] 阶段1：调研（00_*.md 调研文档）
+- [x] 阶段2：规划（01_roadmap.md, 02_experiment_log.md）
+- [x] 阶段3：核心移植 - 记忆系统方案
+- [x] 阶段3：核心移植 - 自举飞轮方案
+- [x] 阶段3：核心移植 - 最小代理测试脚本
+- [ ] 阶段3：核心移植 - 实际运行验证
+- [ ] 阶段4：集成测试
+- [ ] 阶段5：总结评估
