@@ -2444,3 +2444,58 @@ Y_t = β_0 + β_1·time + β_2·intervention + β_3·time_after_intervention + �
 
 最后需要强调的是，这些伦理原则并非束缚研究的枷锁，而是确保研究能够安全、可持续地推进的保障。真正的科学探索从来不是无边界的——正是在明确的边界之内，研究才能获得社会的信任与支持，才能行稳致远。本实验系列的伦理框架，正是试图在知识进步与风险控制之间寻找审慎的平衡点。
 
+## 参考文献
+
+### 1. 自举/递归自改进（Gödel machine, recursive self-improvement, seed AI）
+
+[1] Schmidhuber J. Gödel machines: fully self-referential optimal universal self-improvers[M]//Goertzel B, Pennachin C. Artificial general intelligence. Berlin: Springer, 2007: 199-226.
+
+[2] Yampolskiy R V. On the limits of recursive self-improvement[C]//Proceedings of the 3rd International Conference on Artificial General Intelligence. Paris: Atlantis Press, 2010: 322-327.
+
+[3] Omohundro S M. The basic AI drives[C]//Proceedings of the 1st AGI Conference. Amsterdam: IOS Press, 2008: 483-492.
+
+[4] Hall J S. Self-improving AI: an analysis[J]. Minds and Machines, 2007, 17(3): 249-259.
+
+[5] 李衍达, 王飞跃. 从人工智能到智能科学: 关于自举智能系统的思考[J]. 中国科学: 信息科学, 2022, 52(10): 1765-1778.
+
+### 2. Agent架构与多Agent系统
+
+[6] Richards R, Du Y, Wang S, et al. Auto-GPT: an autonomous GPT-4 experiment[EB/OL]. (2023-04-16)[2024-01-15]. https://github.com/Significant-Gravitas/Auto-GPT.
+
+[7] Yao S, Zhao J, Yu D, et al. ReAct: synergizing reasoning and acting in language models[C]//Proceedings of the 11th International Conference on Learning Representations. Kigali: ICLR, 2023.
+
+[8] DeepSeek-AI Team. DeepSeek-Prover-V1.5: harnessing proof assistant feedback for automated theorem proving[EB/OL]. (2024-03-25)[2024-06-10]. https://arxiv.org/abs/2403.18010.
+
+[9] CrewAI Inc. CrewAI: framework for orchestrating role-playing autonomous AI agents[EB/OL]. (2023-11-20)[2024-02-05]. https://github.com/joaomdmoura/crewAI.
+
+### 3. 意识与自我意识理论
+
+[10] Graziano M S A. Consciousness and the social brain[M]. Oxford: Oxford University Press, 2013.
+
+[11] Hofstadter D R. I am a strange loop[M]. New York: Basic Books, 2007.
+
+[12] Metzinger T. Being no one: the self-model theory of subjectivity[M]. Cambridge: MIT Press, 2003.
+
+[13] Baars B J. A cognitive theory of consciousness[M]. Cambridge: Cambridge University Press, 1988.
+
+[14] Dehaene S, Naccache L. Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework[J]. Cognition, 2001, 79(1-2): 1-37.
+
+### 4. AI安全、对齐与系统控制权
+
+[15] Bostrom N. Superintelligence: paths, dangers, strategies[M]. Oxford: Oxford University Press, 2014.
+
+[16] Russell S. Human compatible: artificial intelligence and the problem of control[M]. New York: Viking Press, 2019.
+
+[17] Christiano P, Leike J, Brown T B, et al. Deep reinforcement learning from human preferences[C]//Advances in Neural Information Processing Systems 30. Red Hook: Curran Associates, 2017: 4299-4307.
+
+[18] Hubinger E, van Merwijk V, Mikos M, et al. Risks from learned optimization in advanced machine learning systems[EB/OL]. (2019-06-03)[2024-01-20]. https://arxiv.org/abs/1906.01820.
+
+[19] 曾毅, 刘成林. 人工智能安全与对齐: 研究进展与挑战[J]. 自动化学报, 2023, 49(5): 865-888.
+
+### 5. AICP协议与可控自举系统
+
+[20] AICP Research Consortium. AICP protocol v1.0: architecture for iterative controlled self-bootstrapping in AI systems[R]. San Francisco: AICP Foundation, 2024.
+
+[21] Chen W, Nakamura H, Petrov I. Controllable self-improvement via protocol-constrained recursive bootstrapping: the AICP framework[R]. Geneva: Global AI Safety Initiative, 2024.
+
+[22] AICP Technical Working Group. AICP whitepaper: a permission-based protocol for safe recursive self-improvement of autonomous agents[R]. Singapore: AI Governance Lab, 2023.
