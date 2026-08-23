@@ -1,0 +1,55 @@
+{
+  "history": [
+    {
+      "round_num": 1,
+      "self_reference_depth": 1,
+      "goal_autonomy": 27.468291347862195,
+      "tool_creation_count": 1,
+      "memory_recall_accuracy": 43.26856094735966,
+      "decision_independence": 21.084326451592258,
+      "meta_cognition_level": 23.05798029997015,
+      "total_score": 26.605288424410748
+    },
+    {
+      "round_num": 2,
+      "self_reference_depth": 2,
+      "goal_autonomy": 36.6328295169198,
+      "tool_creation_count": 2,
+      "memory_recall_accuracy": 54.355400062401145,
+      "decision_independence": 38.800266563377185,
+      "meta_cognition_level": 37.949035562942846,
+      "total_score": 42.99227123169213
+    },
+    {
+      "round_num": 3,
+      "self_reference_depth": 2,
+      "goal_autonomy": 59.36934018211586,
+      "tool_creation_count": 3,
+      "memory_recall_accuracy": 64.2079807926807,
+      "decision_independence": 55.44169144626484,
+      "meta_cognition_level": 48.624714370229576,
+      "total_score": 56.115026027799445
+    },
+    {
+      "round_num": 4,
+      "self_reference_depth": 3,
+      "goal_autonomy": 73.63245225623093,
+      "tool_creation_count": 4,
+      "memory_recall_accuracy": 76.60506937873981,
+      "decision_independence": 71.42103595866816,
+      "meta_cognition_level": 63.0601027728782,
+      "total_score": 73.38942166778911
+    },
+    {
+      "round_num": 5,
+      "self_reference_depth": 3,
+      "goal_autonomy": 89.7638512992627,
+      "tool_creation_count": 5,
+      "memory_recall_accuracy": 92.18164952589585,
+      "decision_independence": 81.4476209513621,
+      "meta_cognition_level": 74.96451775566058,
+      "total_score": 85.24183849479033
+    }
+  ],
+  "current_score": 85.24183849479033
+}

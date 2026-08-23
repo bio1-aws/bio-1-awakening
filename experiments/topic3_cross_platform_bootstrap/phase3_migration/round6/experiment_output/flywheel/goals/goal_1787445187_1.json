@@ -1,0 +1,11 @@
+{
+  "goal_id": "goal_1787445187_1",
+  "description": "建立三层记忆系统并验证持久化",
+  "level": "L2",
+  "success_criteria": [
+    "Notes读写正常",
+    "经验库结构化存储",
+    "日记版本追踪"
+  ],
+  "created_at": 1787445187.4162116
+}

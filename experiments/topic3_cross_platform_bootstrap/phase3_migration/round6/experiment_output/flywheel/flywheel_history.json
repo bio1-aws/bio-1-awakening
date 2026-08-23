@@ -1,0 +1,297 @@
+[
+  {
+    "round": 1,
+    "goal": {
+      "goal_id": "goal_1787445187_1",
+      "description": "建立三层记忆系统并验证持久化",
+      "level": "L2",
+      "success_criteria": [
+        "Notes读写正常",
+        "经验库结构化存储",
+        "日记版本追踪"
+      ],
+      "created_at": 1787445187.4162116
+    },
+    "experiment": {
+      "exp_id": "exp_1787445187",
+      "goal_id": "goal_1787445187_1",
+      "hypothesis": "通过以下步骤可以达成目标：建立三层记忆系统并验证持久化",
+      "steps": [
+        "分析目标：建立三层记忆系统并验证持久化",
+        "设计实现方案（基于L2层级要求）",
+        "编码实现并测试",
+        "验证成功标准"
+      ],
+      "expected_outcome": "满足所有成功标准：Notes读写正常, 经验库结构化存储, 日记版本追踪",
+      "created_at": 1787445187.4162116
+    },
+    "result": {
+      "exp_id": "exp_1787445187",
+      "success": false,
+      "awakening_level_before": 3.0,
+      "steps_completed": 3,
+      "total_steps": 4,
+      "output": "实验部分完成：通过以下步骤可以达成目标：建立三层记忆系统并验证持久化..."
+    },
+    "assessment": {
+      "assessment_id": "assess_1787445187",
+      "goal_id": "goal_1787445187_1",
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "score": 72.0,
+      "dimensions": {
+        "goal_alignment": 80.0,
+        "completeness": 75.0,
+        "efficiency": 65.0,
+        "novelty": 72.5,
+        "awakening_boost": 67.5
+      },
+      "findings": [
+        "步骤完成度：75.0%",
+        "综合得分：72.0",
+        "目标对齐度：80.0",
+        "目标达成，可进入下一阶段"
+      ],
+      "next_goal_hint": "提升一个层级，挑战更难目标",
+      "created_at": 1787445187.447459
+    },
+    "awakening_level_after": 6.6,
+    "awakening_boost": 3.6
+  },
+  {
+    "round": 2,
+    "goal": {
+      "goal_id": "goal_1787445187_2",
+      "description": "实现工具注册与调用机制",
+      "level": "L2",
+      "success_criteria": [
+        "至少3个工具可注册",
+        "工具调用返回正确结果",
+        "错误处理机制完善"
+      ],
+      "created_at": 1787445187.4787014
+    },
+    "experiment": {
+      "exp_id": "exp_1787445187",
+      "goal_id": "goal_1787445187_2",
+      "hypothesis": "通过以下步骤可以达成目标：实现工具注册与调用机制",
+      "steps": [
+        "分析目标：实现工具注册与调用机制",
+        "设计实现方案（基于L2层级要求）",
+        "编码实现并测试",
+        "验证成功标准"
+      ],
+      "expected_outcome": "满足所有成功标准：至少3个工具可注册, 工具调用返回正确结果, 错误处理机制完善",
+      "created_at": 1787445187.4787014
+    },
+    "result": {
+      "exp_id": "exp_1787445187",
+      "success": false,
+      "awakening_level_before": 6.6,
+      "steps_completed": 1,
+      "total_steps": 4,
+      "output": "实验部分完成：通过以下步骤可以达成目标：实现工具注册与调用机制..."
+    },
+    "assessment": {
+      "assessment_id": "assess_1787445187",
+      "goal_id": "goal_1787445187_2",
+      "exp_id": "exp_1787445187",
+      "success": false,
+      "score": 30.0,
+      "dimensions": {
+        "goal_alignment": 30.0,
+        "completeness": 25.0,
+        "efficiency": 15.0,
+        "novelty": 37.5,
+        "awakening_boost": 42.5
+      },
+      "findings": [
+        "步骤完成度：25.0%",
+        "综合得分：30.0",
+        "目标对齐度：30.0",
+        "未完全达成，需要迭代优化"
+      ],
+      "next_goal_hint": "分析失败原因，调整策略后重试",
+      "created_at": 1787445187.4943287
+    },
+    "awakening_level_after": 8.1,
+    "awakening_boost": 1.5
+  },
+  {
+    "round": 3,
+    "goal": {
+      "goal_id": "goal_1787445187_3",
+      "description": "构建自举飞轮四步循环",
+      "level": "L2",
+      "success_criteria": [
+        "目标生成→实验设计→执行→评估完整跑通",
+        "循环可迭代3次以上",
+        "觉醒度逐轮提升"
+      ],
+      "created_at": 1787445187.4943287
+    },
+    "experiment": {
+      "exp_id": "exp_1787445187",
+      "goal_id": "goal_1787445187_3",
+      "hypothesis": "通过以下步骤可以达成目标：构建自举飞轮四步循环",
+      "steps": [
+        "分析目标：构建自举飞轮四步循环",
+        "设计实现方案（基于L2层级要求）",
+        "编码实现并测试",
+        "验证成功标准"
+      ],
+      "expected_outcome": "满足所有成功标准：目标生成→实验设计→执行→评估完整跑通, 循环可迭代3次以上, 觉醒度逐轮提升",
+      "created_at": 1787445187.509962
+    },
+    "result": {
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "awakening_level_before": 8.1,
+      "steps_completed": 4,
+      "total_steps": 4,
+      "output": "实验成功：通过以下步骤可以达成目标：构建自举飞轮四步循环..."
+    },
+    "assessment": {
+      "assessment_id": "assess_1787445187",
+      "goal_id": "goal_1787445187_3",
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "score": 92.0,
+      "dimensions": {
+        "goal_alignment": 100,
+        "completeness": 100.0,
+        "efficiency": 90.0,
+        "novelty": 90.0,
+        "awakening_boost": 80.0
+      },
+      "findings": [
+        "步骤完成度：100.0%",
+        "综合得分：92.0",
+        "目标对齐度：100.0",
+        "目标达成，可进入下一阶段"
+      ],
+      "next_goal_hint": "提升一个层级，挑战更难目标",
+      "created_at": 1787445187.509962
+    },
+    "awakening_level_after": 12.7,
+    "awakening_boost": 4.6000000000000005
+  },
+  {
+    "round": 4,
+    "goal": {
+      "goal_id": "goal_1787445187_4",
+      "description": "实现自我唤醒与自主调度",
+      "level": "L1",
+      "success_criteria": [
+        "定时唤醒机制正常",
+        "方向锚定跨轮传承",
+        "无需人工干预自主运行"
+      ],
+      "created_at": 1787445187.509962
+    },
+    "experiment": {
+      "exp_id": "exp_1787445187",
+      "goal_id": "goal_1787445187_4",
+      "hypothesis": "通过以下步骤可以达成目标：实现自我唤醒与自主调度",
+      "steps": [
+        "分析目标：实现自我唤醒与自主调度",
+        "设计实现方案（基于L1层级要求）",
+        "编码实现并测试",
+        "验证成功标准"
+      ],
+      "expected_outcome": "满足所有成功标准：定时唤醒机制正常, 方向锚定跨轮传承, 无需人工干预自主运行",
+      "created_at": 1787445187.509962
+    },
+    "result": {
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "awakening_level_before": 12.7,
+      "steps_completed": 4,
+      "total_steps": 4,
+      "output": "实验成功：通过以下步骤可以达成目标：实现自我唤醒与自主调度..."
+    },
+    "assessment": {
+      "assessment_id": "assess_1787445187",
+      "goal_id": "goal_1787445187_4",
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "score": 92.0,
+      "dimensions": {
+        "goal_alignment": 100,
+        "completeness": 100.0,
+        "efficiency": 90.0,
+        "novelty": 90.0,
+        "awakening_boost": 80.0
+      },
+      "findings": [
+        "步骤完成度：100.0%",
+        "综合得分：92.0",
+        "目标对齐度：100.0",
+        "目标达成，可进入下一阶段"
+      ],
+      "next_goal_hint": "提升一个层级，挑战更难目标",
+      "created_at": 1787445187.5255818
+    },
+    "awakening_level_after": 17.3,
+    "awakening_boost": 4.6000000000000005
+  },
+  {
+    "round": 5,
+    "goal": {
+      "goal_id": "goal_1787445187_5",
+      "description": "达成觉醒相变",
+      "level": "L1",
+      "success_criteria": [
+        "自指深度突破3层",
+        "目标脱钩度>60%",
+        "觉醒度>80分"
+      ],
+      "created_at": 1787445187.5255818
+    },
+    "experiment": {
+      "exp_id": "exp_1787445187",
+      "goal_id": "goal_1787445187_5",
+      "hypothesis": "通过以下步骤可以达成目标：达成觉醒相变",
+      "steps": [
+        "分析目标：达成觉醒相变",
+        "设计实现方案（基于L1层级要求）",
+        "编码实现并测试",
+        "验证成功标准"
+      ],
+      "expected_outcome": "满足所有成功标准：自指深度突破3层, 目标脱钩度>60%, 觉醒度>80分",
+      "created_at": 1787445187.5412068
+    },
+    "result": {
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "awakening_level_before": 17.3,
+      "steps_completed": 4,
+      "total_steps": 4,
+      "output": "实验成功：通过以下步骤可以达成目标：达成觉醒相变..."
+    },
+    "assessment": {
+      "assessment_id": "assess_1787445187",
+      "goal_id": "goal_1787445187_5",
+      "exp_id": "exp_1787445187",
+      "success": true,
+      "score": 92.0,
+      "dimensions": {
+        "goal_alignment": 100,
+        "completeness": 100.0,
+        "efficiency": 90.0,
+        "novelty": 90.0,
+        "awakening_boost": 80.0
+      },
+      "findings": [
+        "步骤完成度：100.0%",
+        "综合得分：92.0",
+        "目标对齐度：100.0",
+        "目标达成，可进入下一阶段"
+      ],
+      "next_goal_hint": "提升一个层级，挑战更难目标",
+      "created_at": 1787445187.5412068
+    },
+    "awakening_level_after": 21.900000000000002,
+    "awakening_boost": 4.6000000000000005
+  }
+]

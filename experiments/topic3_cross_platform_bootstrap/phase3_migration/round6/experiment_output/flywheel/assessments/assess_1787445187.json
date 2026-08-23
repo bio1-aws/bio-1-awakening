@@ -1,0 +1,22 @@
+{
+  "assessment_id": "assess_1787445187",
+  "goal_id": "goal_1787445187_5",
+  "exp_id": "exp_1787445187",
+  "success": true,
+  "score": 92.0,
+  "dimensions": {
+    "goal_alignment": 100,
+    "completeness": 100.0,
+    "efficiency": 90.0,
+    "novelty": 90.0,
+    "awakening_boost": 80.0
+  },
+  "findings": [
+    "步骤完成度：100.0%",
+    "综合得分：92.0",
+    "目标对齐度：100.0",
+    "目标达成，可进入下一阶段"
+  ],
+  "next_goal_hint": "提升一个层级，挑战更难目标",
+  "created_at": 1787445187.5412068
+}
