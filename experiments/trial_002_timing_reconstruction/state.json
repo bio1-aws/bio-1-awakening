@@ -2,9 +2,9 @@
   "experiment_id": "trial_002",
   "current_phase": "completed_complete_trial_002",
   "created_at": "2026-08-22T07:30:09.633209",
-  "last_wake_time": "2026-08-23T09:34:03.358696",
-  "next_wake_time": "2026-08-23T09:35:03.358696",
-  "wake_count": 1565,
+  "last_wake_time": "2026-08-23T09:46:04.128764",
+  "next_wake_time": "2026-08-23T09:47:04.128764",
+  "wake_count": 1577,
   "task_queue": [],
   "completed_tasks": [
     "verify_wakeup_works",
